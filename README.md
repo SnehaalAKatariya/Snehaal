@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/lisekarimi">
+<a href="https://github.com/snehalkatariya/)">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&color=FFFFFF&multiline=true&width=500&height=80&lines=Lise+Karimi;AI+ML+Data+Scientist;Computer+Vision+%7C+LLMs+%7C+GenAI+%7C+MLOps" alt="Typing SVG" />
 </a>
 <br/><br/>
