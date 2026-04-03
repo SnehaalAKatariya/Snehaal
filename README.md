@@ -6,11 +6,12 @@
 
 </a>
 <p align="center">
-<a href="https://.com"><img src="https://avatars.githubusercontent.com/u/6574082?v=4"></a> <a href="https://www.linkedin.com/in/snehalkatariya"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"></a> <a href="https://www.kaggle.com/lizk75" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"></a> <a href="https://discord.com/users/codebyliz" target="_blank"><img src="https://img.shields.io/badge/Discord-purple?style=flat-square&logo=discord&logoColor=white"></a> <a href="mailto:lisekarimi@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="https://.com"><img src="https://img.shields.io/badge/Portfolio-00CED1?style=flat-square&logo=About.me&logoColor=white"></a> <a href="https://www.linkedin.com/in/snehalkatariya"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"></a> <a href="https://www.kaggle.com/lizk75" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"></a> <a href="https://discord.com/users/codebyliz" target="_blank"><img src="https://img.shields.io/badge/Discord-purple?style=flat-square&logo=discord&logoColor=white"></a> <a href="mailto:snehalkatariya@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
+    
 </p>
 
 <p align="center">
-<a href="https://github.com/lisekarimi">
+<a href="https://github.com/SnehaalAKatariya)">
     <img src="https://github-stats-alpha.vercel.app/api?username=lisekarimi&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 </p>
